@@ -1,0 +1,46 @@
+/* CRURentas.css */
+
+.label-top-right {
+    position: absolute;
+    top: 10px; 
+    right: 10px; 
+    font-size: 30px; 
+    color: #ffffff; 
+  }
+  
+  .rentas-container {
+    margin-top: 20px;
+  }
+  
+  .rentas-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+.rentas-container label {
+    display: block;
+    margin-bottom: 8px;
+}  
+.rentas-container select, .rentas-container input {
+    padding: 8px;
+    margin-bottom: 10px;
+}  
+.rentas-container button {
+    background-color: #16465e;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}  
+.rentas-container button:hover {
+    background-color: #057baa;
+}  
+.rentas-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}  
+.rentas-list li {
+    margin-bottom: 10px;
+}  
